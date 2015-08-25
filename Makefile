@@ -31,7 +31,7 @@ libro.markdown: $(articulos)
 # pdf, hacemos un latex, lo arreglamos y después lo convertimos a pdf.
 #
 # https://github.com/jgm/pandoc/issues/1632
-libro.latex: libro.markdown
+libro.latex: libro.markdown layouts/license.tex layouts/header.tex
 	pandoc $(pandoc_flags) -t latex $< \
 	| sed "s/\(\\\chapter\*{\)\([^}]\+\)/\1\2\\\markboth{\2}{}/" >$@
 
