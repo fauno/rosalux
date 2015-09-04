@@ -2,17 +2,21 @@ default: all
 
 # Todos los articulos en orden
 articulos := $(shell echo articulos/*.markdown)
+latex := $(wildcard layouts/*.tex)
 
 # Todas las opciones que se le pasan a pandoc para crear el libro
 # LaTeX: tamaño del libro
-pandoc_flags  = -V fontsize=10pt,a5paper,twoside -V documentclass=book
+pandoc_flags  = -V fontsize=10pt,twoside -V documentclass=book
 # LaTeX: ubicación de las páginas y márgenes
+pandoc_flags += -V geometry=paperheight=210mm -V geometry=paperwidth=135mm
+pandoc_flags += -V geometry=top=3cm -V geometry=bottom=3cm
 pandoc_flags += -V geometry=hcentering -V geometry=bindingoffset=1cm
 # LaTeX: usar XeLaTeX permite usar fuentes instaladas en el sistema
 pandoc_flags += --latex-engine=xelatex
 # LaTeX: estilo del libro
 pandoc_flags += --include-in-header=layouts/header.tex
 pandoc_flags += --include-before-body=layouts/license.tex
+pandoc_flags += --include-after-body=layouts/end.tex
 # LaTeX: idioma
 pandoc_flags += -V lang=spanish
 # Bibliografía
@@ -31,7 +35,7 @@ libro.markdown: $(articulos)
 # pdf, hacemos un latex, lo arreglamos y después lo convertimos a pdf.
 #
 # https://github.com/jgm/pandoc/issues/1632
-libro.latex: libro.markdown layouts/license.tex layouts/header.tex
+libro.latex: libro.markdown $(latex)
 	pandoc $(pandoc_flags) -t latex $< \
 	| sed "s/\(\\\chapter\*{\)\([^}]\+\)/\1\2\\\markboth{\2}{}/" >$@
 

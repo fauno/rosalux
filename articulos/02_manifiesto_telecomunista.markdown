@@ -2,11 +2,13 @@
 El Manifiesto Telecomunista
 ===========================
 
+#### Dmytri Kleiner
+
 > El Manifiesto Telecomunista
 > (<http://telekommunisten.net/the-telekommunist-manifesto/>) se compone
-> de textos extendidos y re-trabajados por Dmytri Kleiner, a partir de
-> trabajos de Joanne Richardson, Brian Wyrick y Dmytri Kleiner,
-> 2004-2008.
+> de textos extendidos y revisados por Dmytri Kleiner, a partir de
+> trabajos de Joanne Richardson, Brian Wyrick y Dmytri Kleiner
+> (2004-2008).
 >
 > Esta publicación se encuentra bajo la Licencia de Producción de Pares
 > (<http://endefensadelsl.org/ppl_deed_es.html>).  Se promueve el uso
@@ -33,7 +35,7 @@ amigo. Él y su compañero habían nombrado "telecomunista" a la red de
 Telecomunista había sido usado como el nombre despectivo de la antigua
 telefónica estatal de Alemania, _Deutsch Telekomm_, que ahora es una
 corporación transnacional privada cuya marca "T-Mobile" es conocida en
-todo el mundo. La utilización del comunismo aquí se refiere a la
+todo el mundo. El uso del término _comunismo_ aquí se refiere a la
 telefónica como un monstruo monolítico, autoritario y burocrático. Este
 es un punto de vista totalmente diferente al uso positivo del término
 para referirse al compromiso con el conflicto de clases con el objetivo
@@ -49,12 +51,12 @@ intenta ser decentralizada, con sólo una mínima coordinación requerida
 entre su comunidad internacional de productores-propietarios.
 
 Hice mi experiencia en las comunidades hacker y artística, donde he
-estado activo desde principios de los '90. Mis puntos de vista han sido
-desarrollados y expresados en correspondencia _online_ y _offline_ en el
-curso de mi involucramiento en el desarrollo de software, el activismo y
-la producción cultural.  Aunque he escrito unos pocos ensayos durante
-estos años, aquellos que conocen mi obra me conocen también
-personalmente a través de encuentros en espacios sociales tanto
+estado activo desde principios de los años 90. Mis puntos de vista han
+sido desarrollados y expresados en correspondencia _online_ y _offline_
+en el curso de mi involucramiento en el desarrollo de software, el
+activismo y la producción cultural.  Aunque he escrito unos pocos
+ensayos durante estos años, aquellos que conocen mi obra me conocen
+también personalmente a través de encuentros en espacios sociales tanto
 electrónicos como físicos. El presente trabajo es un "Manifiesto", no en
 el sentido de que delinea un sistema teórico completo, un grupo
 dogmático de creencias o la plataforma de un movimiento político, pero
@@ -62,8 +64,8 @@ sí en el espíritu del manifiesto como principio o introducción. Matteo
 Pasquinelli, que me empujó a escribirlo, sintió que mi rol como una voz
 _underground_ de nuestra comunidad era demasiado underground y declaró
 que era "tiempo de salir" con un texto publicado. Me conectó con Geert
-Lovink, que sugirió la estructura y el abordaje del texto y se ofreció
-como redactor y, a través del _Institute of Network Cultures_, como
+Lovink, quien sugirió la estructura y el abordaje del texto y se ofreció
+como redactor y a través del _Institute of Network Cultures_, como
 editor.
 
 El Manifiesto Telecomunista es en gran medida un _cut-up_, un collage de
@@ -73,10 +75,10 @@ Creativos" producido en cooperación con Joanne Richardson y publicado
 originalmente en "Anna Nimmus" en el sitio web homónimo. Muchas partes
 del texto concerniente a la comercialización de Internet fueron tomadas
 de "Infocercamiento 2.0", co-escrito con Brian Wyrick y publicado
-originalmente en Mute Magazine. También hay que dar crédito a los
-editores de Mute Magazine Josephine Berry Slater y Anthony Iles, por su
-trabajo en "Infocercamiento 2.0" y "Copyjustright, _Copyfarleft_", que
-también han sido usados aquí.
+originalmente en _Mute Magazine_.  También hay que dar crédito a los
+editores de _Mute Magazine_ Josephine Berry Slater y Anthony Iles, por
+su trabajo en "_Infocercamiento 2.0_" y "_Copyjustright, Copyfarleft_",
+que también han sido usados aquí.
 
 
 ## Introducción
@@ -101,9 +103,9 @@ relaciones no jerárquicas posibilitadas por las redes de pares, como la
 Internet, contradicen la necesidad capitalista de cercamiento y control.
 Es una batalla a muerte; o la Internet como la conocemos deberá
 desaparecer o el capitalismo lo hará.  ¿Nos arrojará el capitalismo
-hacia la edad media de la red, a _CompuServe_, los teléfonos móviles y
-la TV por cable antes de permitir que las comunicaciones entre pares nos
-lleven a una nueva sociedad? Sí, si es que pueden. Marx concluye que
+hacia la Edad Media de la red, a _CompuServe_, a los teléfonos móviles y
+a la TV por cable antes de permitir que las comunicaciones entre pares
+nos lleven a una nueva sociedad? Sí, si es que pueden. Marx concluye que
 "ningún orden social perece antes que todas las fuerzas productivas que
 entren en su interior se hayan desarrollado; y nuevas y más altas
 relaciones de producción nunca aparecen antes que las condiciones
@@ -141,7 +143,8 @@ comercialización de Internet y la emergencia de la producción
 distribuida por red. Propone una nueva forma de organización como
 vehículo de la lucha de clases: el comunismo de riesgo. La sección
 termina con el famoso programa delineado por Marx y Engels en su
-Manifiesto Comunista, adaptado en un manifiesto por una sociedad en red.
+_Manifiesto Comunista_, adaptado en un manifiesto por una sociedad en
+red.
 
 Construyendo sobre la sección previa, en "Contribución a la Crítica de
 la Cultura Libre", el manifiesto continúa con la historia y las falsas
@@ -157,7 +160,7 @@ activistas con motivaciones políticas, no para evangelizarlos a una
 posición fija, sino para contribuir a un continuo diálogo crítico.
 
 
-## El comunismo de pares contra el estado capitalista cliente-servidor
+## El comunismo de pares contra el Estado capitalista cliente-servidor
 
 La sociedad se compone de relaciones sociales. Estas forman las
 estructuras que la constituyen. Las redes de computadoras, como los
@@ -196,7 +199,7 @@ de red de pares y los comunes pastoriles históricos.
 ## Las condiciones de la clase trabajadora en la Internet
 
 La única manera de cambiar la sociedad es producir y compartir de forma
-diferente.
+diferente lo producido.
 
 El capitalismo tiene sus formas propias de reproducción: el capitalismo
 de riesgo. A través del acceso a la riqueza que resulta de la captura
@@ -246,13 +249,13 @@ son, en su base, capacidades económicas. El cambio requiere entonces la
 aplicación de riqueza suficiente para superar la de aquellos que
 resisten ese cambio. Tal riqueza sólo surge de la producción.
 
-Las nuevas formas de producir y compartir, entonces, son la
+Las nuevas formas de producir y compartir son, entonces, la
 pre-condición de cualquier cambio en el orden social. Estos nuevos
 métodos de producir y compartir requieren la creación de nuevas formas
 de relaciones, nuevas relaciones de producción, para constituir una
 nueva estructura económica capaz de hacer surgir un nuevo tipo de
 sociedad. Ningún orden social, sin importar cuan fuerte y
-despiadadamente impuesto, puede resistir su transformación cuando
+despiadadamente impuesto sea, puede resistir su transformación cuando
 emergen nuevas formas de producir y compartir.
 
 Resumiendo, la sociedad se compone de vínculos sociales que incluyen
@@ -409,12 +412,12 @@ por productores diversos y distribuidos que contribuyen a él porque
 ganan mayor valor al usarlo para su propia producción que el valor de
 sus contribuciones individuales al software.  Los ataques populares a
 las regalías y tasas capturadas por la industria discográfica y fílmica
-por parte de los usuarios de tecnologías de compartición de archivos nos
-muestran las dificultades que enfrentan aquellos cuyos ingresos dependen
-del control de la reproducción. El transporte masivo y la migración
-internacional han creado comunidades distribuidas que mantienen
-relaciones interpersonales y, a menudo, económicas informales a través
-de los límites nacionales.
+por parte de los usuarios de tecnologías de compartimiento de archivos
+nos muestran las dificultades que enfrentan aquellos cuyos ingresos
+dependen del control de la reproducción. El transporte masivo y la
+migración internacional han creado comunidades distribuidas que
+mantienen relaciones interpersonales y económicas, a menudo informales,
+a través de los límites nacionales.
 
 Todos estos son ejemplos de nuevas relaciones productivas que
 trascienden las actuales basadas en la propiedad y apuntan a un progreso
@@ -437,7 +440,7 @@ cambio social son increiblemente grandes. Debemos superar la gran
 acumulación de riqueza de la que la elite capitalista dispone. Esta
 riqueza les da la habilidad de moldear la sociedad de acuerdo a sus
 intereses. Para poder cambiar la sociedad debemos expandir activamente
-el alcance de nuestros comunes, para que nuestras comunidades
+el alcance de nuestros comunes, de manera que nuestras comunidades
 independientes de pares puedan sostenerse materialmente y resistir los
 avances del capitalismo.
 
@@ -506,8 +509,8 @@ comunidad" [@ricardo-1815]. Este análisis no se basa en los medios
 sociales, como la distinción general entre las clases altas y bajas,
 sino en la relación con los factores de la producción, tierra, trabajo o
 capital. Este modelo ricardiano provee una base lógica para la idea de
-que las clases, terrateniente, trabajadora y capitalista tienen
-intereses diametralmente opuestos.
+que las clases terrateniente, trabajadora y capitalista tienen intereses
+diametralmente opuestos.
 
 Que existan clases altas y bajas puede implicar una sociedad injusta,
 pero esta distinción no necesariamente implica intereses en conflicto y
@@ -661,7 +664,7 @@ poseer una dirección pública de Internet.
 
 Mientras los usuarios tanto de _CompuServe_ como de Internet tenían
 acceso a aplicaciones similares, como el correo electrónico, grupos de
-discusión, grupos de conversación y compartición de archivos, los
+discusión, grupos de conversación y compartimiento de archivos, los
 usuarios de _CompuServe_ dependían completamente del acceso a este,
 mientras que los usuarios de Internet podían tener acceso a esta a
 través de cualquier proveedor de servicio e incluso podían tener sus
@@ -704,14 +707,14 @@ línea; no obstante, se convirtió rápidamente en el punto focal de las
 organizaciones que buscaban comercializar la Internet. Desde sus
 modestos inicios, cuando las compañías ponían volantes en línea, la Web
 comercial despegó junto con el desarrollo del _e-Commerce_. En este
-punto, la Web todavía no había tomado la compartición en línea. La gente
-usaba la Web para, por ejemplo, navegar una librería, pero continuó
-empleando las tecnologías distribuidas para comunicarse con otros
-usuarios. Sin embargo, muy pronto la Web, financiada por capitales de
-riesgo, se colocó de forma tal que los sitios web operados por grandes
-corporaciones se convirtieron en las principales plataformas sociales.
-La misma Internet desaparecería pronto detrás de la Web y los usuarios
-nunca más saldrían del navegador.
+punto, la Web todavía no había tomado el compartimiento en línea. La
+gente usaba la Web para, por ejemplo, navegar una librería, pero
+continuó empleando las tecnologías distribuidas para comunicarse con
+otros usuarios. Sin embargo, muy pronto la Web, financiada por capitales
+de riesgo, se colocó de forma tal que los sitios web operados por
+grandes corporaciones se convirtieron en las principales plataformas
+sociales.  La misma Internet desaparecería pronto detrás de la Web y los
+usuarios nunca más saldrían del navegador.
 
 La Web 2.0 emergió como el paraíso del capitalismo de riesgo, donde
 inversores se meten en el bolsillo el valor producido por usuarios no
@@ -724,8 +727,8 @@ _Wikipedia_ dice que:
 > Web 2.0, un término acuñado por O'Reilly Media en el 2004, se refiere
 > a la supuesta segunda generación de servicios basados en Internet,
 > como los sitios de redes sociales, wikis, herramientas de comunicación
-> y folksonomías que enfatizan la colaboración en línea y la
-> compartición entre usuarios [@wikipedia-web20].
+> y folksonomías que enfatizan la colaboración en línea y el
+> compartimiento entre usuarios [@wikipedia-web20].
 
 El uso de la palabra "supuesta" es digna de notarse. _Wikipedia_ debería
 saberlo, siendo el más amplio trabajo editado colectivamente de la
@@ -807,19 +810,19 @@ Berners-Lee, quien ve a las innovaciones recientes como nada más que un
 desarrollo continuado de la Web, para los capitalistas de riesgo, que
 como Morris McGurk sueñan con trabajadores incansables produciendo
 contenidos infinitos sin demandar un salario, suena estupendo. Y en
-efecto, de _YouTube_ a Flickr a _Wikipedia_, verdaderamente "no verías la
-mitad si tuvieras cuarenta ojos".  Tim Berners-Lee tiene razón. No hay
-nada, desde un punto de vista técnico o del usuario en la Web 2.0 que no
-tenga sus raíces en y no sea un desarrollo natural de, la generación
-temprana de la Web. La tecnología asociada con la bandera de la Web 2.0
-era posible y en algunos casos estaba previamente disponible, pero la
-moda alrededor de este uso ciertamente ha afectado el crecimiento de los
-sitios 2.0.
+efecto, de _YouTube_ a Flickr a _Wikipedia_, verdaderamente "no verías
+la mitad si tuvieras cuarenta ojos".  Tim Berners-Lee tiene razón. No
+hay nada, desde un punto de vista técnico o del usuario en la Web 2.0
+que no tenga sus raíces en y no sea un desarrollo natural de la
+generación temprana de la Web. La tecnología asociada con la bandera de
+la Web 2.0 era posible y en algunos casos estaba previamente disponible,
+pero la moda alrededor de este uso ciertamente ha afectado el
+crecimiento de los sitios 2.0.
 
 Internet siempre se ha tratado sobre el compartir entre usuarios. En
 efecto _Usenet_, el sistema de mensajería distribuida, ha estado operando
 desde 1979. Desde entonces, _Usenet_ ha estado almacenando discusiones,
-periodismo "amateur" y compartición de fotos y archivos. Como la
+periodismo "amateur" y compartimiento de fotos y archivos. Como la
 Internet, es un sistema distribuido no apropiado ni controlado por
 nadie. Es esta cualidad, la falta de control y apropiación central, la
 que diferencia servicios como _Usenet_ de la Web 2.0.
@@ -840,7 +843,7 @@ La Web 2.0 es el boom de la inversión en Internet 2.0. La Web 2.0 es un
 modelo de negocio de apropiación privada del valor creado
 colectivamente. Nadie niega que la tecnología de sitios como _YouTube_,
 por ejemplo, es trivial. Esto está más que evidenciado por el gran
-número de servicios idénticos de compartición de videos, tales como
+número de servicios idénticos de compartimiento de videos, tales como
 Daily Motion. El valor real de _YouTube_ no es creado por los
 desarrolladores del sitio; en cambio, es creado por la gente que carga
 videos en el sitio. Aun así, cuando _YouTube_ fue comprado por un valor de
@@ -893,7 +896,7 @@ riesgo terminan hambrientas de efectivo y echadas del club.
 En todos estos casos, el valor de un sitio de Internet no es creado por
 el equipo contratado por la compañía que lo posee, sino por los usuarios
 que lo utilizan.  Con el énfasis puesto en el contenido creado por la
-comunidad y la compartición, es muy fácil pasar por alto preguntas
+comunidad y el compartimiento, es muy fácil pasar por alto preguntas
 acerca de la propiedad del contenido y la habilidad para monetizar su
 valor. Estas preguntas son rara vez hechas por el usuario. Son parte de
 la letra chica en los Términos de Servicio de _Facebook_, o en el
@@ -1125,15 +1128,15 @@ informacionales, será siempre capturado por los dueños de la propiedad
 real, que se encuentra fuera de los comunes.
 
 Para que la producción de pares tenga algún efecto sobre la riqueza
-material en general, tiene que operar en el contexto de un sistema
-completo de bienes y servicios, donde tanto los medios de producción
-físicos como los virtuales estén disponibles en los comunes productivos.
-Al establecer una producción de pares únicamente en el contexto del
-patrimonio común de la informacion, Benkler está creando una trampa,
-asegurándose que el valor creado en la economía de pares sea apropiado
-por el privilegio sobre la propiedad.  Encontramos a Benkler de cabeza y
-necesitamos redefinir la producción de pares para volver a colocarlo
-sobre sus pies.
+material en general tiene que operar en el contexto de un sistema
+completo de bienes y servicios, donde, tanto los medios de producción
+físicos como los virtuales, estén disponibles en los comunes
+productivos.  Al establecer una producción de pares únicamente en el
+contexto del patrimonio común de la informacion, Benkler está creando
+una trampa, asegurándose que el valor creado en la economía de pares sea
+apropiado por el privilegio sobre la propiedad.  Encontramos a Benkler
+de cabeza y necesitamos redefinir la producción de pares para volver a
+colocarlo sobre sus pies.
 
 No es la producción lo que es inmaterial en la producción inmaterial no
 reciprocitaria. Las computadoras, redes, desarrolladores y sus lugares
@@ -1401,13 +1404,13 @@ para elevar al proletariado como la clase económicamente dominante. Sólo
 cuando los trabajadores controlen su propia producción será alcanzada**
 la conquista de la democracia.
 
-El proletariado se valdrá del Poder **Económico** para ir despojando
+El proletariado se valdrá del **Poder Económico** para ir despojando
 paulatinamente a la burguesía de todo el capital, de todos los
-instrumentos de la producción, **de**centralizándolos ~~en manos del
+instrumentos de la producción, **decentralizándolos** ~~en manos del
 Estado, es decir, del proletariado organizado como clase gobernante,~~
-**en un stock común controlado directamente por aquellos que lo utilizan
-para producir,** y procurando fomentar por todos los medios y con la
-mayor rapidez posible las energías productivas.
+**en un _stock_ común controlado directamente por aquellos que lo
+utilizan para producir,** y procurando fomentar por todos los medios y
+con la mayor rapidez posible las energías productivas.
 
 Claro está que, al principio, esto sólo podrá llevarse a cabo mediante
 una ~~acción despótica sobre~~ **reestructuración de nuestras empresas
@@ -1476,7 +1479,7 @@ general, según los casos.
 10. ~~Educación pública y gratuita de todos los niños. Prohibición del
     trabajo infantil en las fábricas bajo su forma actual.  Régimen
     combinado de la educación con la producción material, etc.~~
-    **Establecimiento de redes de compartición de conocimiento y
+    **Establecimiento de redes de compartimiento de conocimiento y
     capacidades y sistemas de apoyo para todos los miembros y provisión
     de oportunidades para el desarrollo de habilidades de contribución y
     producción.**
@@ -1515,7 +1518,7 @@ sido la raíz del _copyright_. Esto ha sido el sujeto de crítica y
 disenso entre artistas y autores desde que existe la noción de derechos
 exclusivos sobre las ideas.  Esto incluye a muchos que adhieren a una
 oposición completa al _copyright_, en la forma del _anticopyright_. El
-advenimiento de la cultura digital y la popularidad de la compartición
+advenimiento de la cultura digital y la popularidad del compartimiento
 de archivos han traído ciertas formas de tal disenso al _mainstream_,
 aunque muchas veces sin el contexto de la lucha de clases y cargados por
 la falsa concepción común de que el _copyright_ fue creado para proteger
@@ -1858,7 +1861,7 @@ sus propias manos.
 
 ## Los anti-comunes creativos
 
-El surgimiento del Software Libre, la compartición de archivos y las
+El surgimiento del Software Libre, el compartimiento de archivos y las
 formas artísticas basadas en el _sampleo_ y reutilización de otros
 medios ha creado un serio problema para el sistema de _copyright_
 tradicional.  Las industria de la música y el cine, en particular, se
@@ -1894,7 +1897,7 @@ absolutismo en la propiedad intelectual, mientras se preservan los
 efectos benéficos.
 
 En su conferencia maestra para _Wizards of OS4_ en Berlín, Lessig
-celebraba la cultura de lecto-escritura de la compartición libre y
+celebraba la cultura de lecto-escritura del compartimiento libre y
 autoría colaborativa que ha sido la norma en gran parte de la historia.
 Durante el último siglo, explicaba Lessig, esta cultura de
 lecto-escritura se ha visto frustrada por la legislación de propiedad
@@ -2549,7 +2552,7 @@ su deseo.
 Mientras que algunas mutaciones del _copyleft_ han multiplicado las
 restricciones, otras han rechazado cualquier tipo de restricción,
 incluyendo la sola restricción impuesta por el _copyleft_ inicial.  Es
-el movimiento alrededor de la compartición entre pares lo que más se
+el movimiento alrededor del compartimiento entre pares lo que más se
 acerca al gesto del anti-_copyright_.  El mejor ejemplo de esto es el
 blog _Copyriot_ de Rasmus Fleischer del _Piratbyrån_ (Buró de
 Piratería), un _think tank_ anti-propiedad intelectual y los alguna vez
@@ -2591,11 +2594,12 @@ crear una cultura realmente libre sin restricciones.
 
 La Licencia de Producción de Pares es un modelo de licencia
 _copyfarleft_, derivada de la licencia _Creative Commons_
-"Atribución-NoComercial-CompartirIgual
-3.0 Unported": <http://creativecommons.org/licenses/by-nc-sa/3.0/>
+"Atribución-NoComercial-CompartirIgual 3.0 Unported".  Vea su página
+aquí <http://creativecommons.org/licenses/by-nc-sa/3.0/>
 
 Para la traducción al castellano se adaptó el texto de la licencia
-_Creative Commons_ "Atribución-NoComercial-CompartirIgual 3.0 Chile":
+_Creative Commons_ "Atribución-NoComercial-CompartirIgual 3.0 Chile".
+Vea su página aquí
 <http://creativecommons.org/licenses/by-nc-sa/3.0/cl/>
 
 ### Licencia de Producción de Pares
@@ -3012,21 +3016,22 @@ colectivos, retenemos la riqueza que creamos y por lo tanto la
 posibilidad de una sociedad nueva se pone a nuestro alcance.
 
 
-[^100]: Manifiesto del Partido Comunista (1848).
-<http://www.marxists.org/espanol/m-e/1840s/48-manif.htm>
+[^100]: Manifiesto del Partido Comunista (1848).  Texto completo
+disponible en <http://www.marxists.org/espanol/m-e/1840s/48-manif.htm>
 
 [^22]: El 'Paquete de Reformas de Telecomunicadoras' fue presentado por
 Viviane Reding al Parlamento Europeo en Estrasburgo el 13 de noviembre
 de 2007. Apunta a cambiar las Reglas de las Telecomunicadoras europeas
 de 2002. Su objetivo es unificar el mercado de telecomunicaciones
-europeo para los 27 miembros.
+europeo para los 27 miembros.  Texto completo disponible en
 <http://europa.eu/rapid/press-release_IP-07-1677_es.htm>
 
 [^26]: Información sobre la historia del _copyright_ ha sido recopilada
-mediante una extensa y diversa investigación. Muchos recursos primarias
-pueden encontrarse en el archivo digital _Primary Sources on_ Copyright
-_(1450-1900)_ iniciado por el Consejo de Investigación en Artes y
-Humanidades del Reino Unido. <http://www.copyrighthistory.com/>
+mediante una extensa y diversa investigación. Muchos recursos primarios
+pueden encontrarse en el archivo digital _Primary Sources on Copyright
+(1450-1900)_ iniciado por el Consejo de Investigación en Artes y
+Humanidades del Reino Unido. Texto completo disponible en
+<http://www.copyrighthistory.com/>
 
 [^34]: El archivo de la Internacional Situacionista y el periódico
 _Internationale Situationniste_ pueden leerse en el sitio <Situationist
@@ -3034,15 +3039,16 @@ International Online_: <http://www.cddc.vt.edu/sionline/index.html>
 
 [^36]: [Free Software Foundation](http://fsf.org). <http://fsf.org>
 
-[^NdT2]: Un hoax, noticia falsa o bulo, es un intento de hacer
-creer a un grupo de personas que algo falso es real.  En castellano el
-término se popularizó principalmente al referirse a engaños masivos por
-medios electrónicos (especialmente Internet).
-<https://es.wikipedia.org/wiki/Bulo> (Nota de la traducción.)
+[^NdT2]: Un _hoax_, noticia falsa o bulo, es un intento de hacer creer a
+un grupo de personas que algo falso es real.  En castellano el término
+se popularizó principalmente al referirse a engaños masivos por medios
+electrónicos (especialmente Internet).  Referencia completa disponible
+en <https://es.wikipedia.org/wiki/Bulo> (Nota de la traducción.)
 
 [^NdT3]: _Détournement_ es un concepto surgido dentro del movimiento
 situacionista que habla sobre la posibilidad artística y política de
 tomar algún objeto creado por el capitalismo o el sistema político
 hegemónico y distorsionar su significado y uso original para producir un
 efecto crítico.  Una palabra parecida en español es tergiversación.
+Referencia completa disponible en
 <https://es.wikipedia.org/wiki/Detournement> (Nota de la traducción.)

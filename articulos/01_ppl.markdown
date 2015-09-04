@@ -10,8 +10,8 @@ Ud. es libre de
 
 * Hacer obras derivadas
 
-Bajo las condiciones siguientes:
---------------------------------
+Bajo las condiciones siguientes
+-------------------------------
 
 ![](images/by.png)
 
@@ -34,8 +34,8 @@ no existan relaciones de explotación.  Todo excedente o plusvalía
 obtenidos por el ejercicio de los derechos concedidos por esta Licencia
 sobre la Obra deben ser distribuidos por y entre los trabajadores.
 
-Entendiendo que
----------------
+Al hacerlo, acepta lo siguiente
+-------------------------------
 
 * **Renuncia** - Alguna de estas condiciones puede no aplicarse si se
   obtiene el permiso del titular de los derechos de autor.
